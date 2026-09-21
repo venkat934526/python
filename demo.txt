@@ -1,0 +1,27 @@
+commandExample/Usage
+lsfiles list pannum
+ls -llong format
+ls -authorfile owner information
+ls *.htmlhtml files only
+cd Documentsgoing to document directory
+cd ~home directory-ki pogum
+cd /root directory-ki pogum
+cd ..parent directoryki pogum
+pwdshows current directory
+echo Hellodisplay Hello in output
+suroot user ku switch pannum
+su varunvarun userku switch pannum
+sudo useradd
+santhshcreate new user as santhosh
+sudo password
+santhosh
+santhosh user-ku password set panna
+sudo userdel
+santhoshsanthosh user delete panna
+sudo groupadd
+studentsstudent group create pannum
+sudo groupdel
+studentsstudent group delete panna
+cpcp file1.txtx file2.txt
+cp -i file1.txtx
+file2.txtoverwrite confirmation
