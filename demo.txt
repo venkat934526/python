@@ -1,3 +1,4 @@
+\<<<<<<< HEAD
 commandExample/Usage
 lsfiles list pannum
 ls -llong format
@@ -25,3 +26,6 @@ studentsstudent group delete panna
 cpcp file1.txtx file2.txt
 cp -i file1.txtx
 file2.txtoverwrite confirmation
+=======
+This is main branch
+>>>>>>> 200d591d386dbcc1a07a9a3bf894dbd4e2782060
